@@ -1,0 +1,16 @@
+# TEAM
+
+    Mike Kopytin:Designer,Coder
+	Contact:	utkapodsousom [at] gmail.com
+	Vk.com:		/utkapodsousom
+	From:		Saint Petersburg, Russia
+
+# THANKS
+
+    to all people in the world
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Compass
+	Susy, Adobe Brackets/Photoshop
